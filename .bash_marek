@@ -3,4 +3,4 @@ alias ea="nano ~/bash_marek/.bash_marek"
 alias ra=". ~/bash_marek/.bash_marek"
 alias cls="clear"
 
-alias gp="git config user.name “Marek Dabek” && git config user.email “marek.dabek@oasislmf.org”"
+alias gp="sudo git config user.name “Marek Dabek” && git config user.email “marek.dabek@oasislmf.org”"
